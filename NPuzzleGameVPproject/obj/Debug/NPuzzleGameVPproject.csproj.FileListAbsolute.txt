@@ -1,0 +1,13 @@
+C:\Users\magda\source\repos\NPuzzleGameVPproject\NPuzzleGameVPproject\bin\Debug\NPuzzleGameVPproject.exe.config
+C:\Users\magda\source\repos\NPuzzleGameVPproject\NPuzzleGameVPproject\bin\Debug\NPuzzleGameVPproject.exe
+C:\Users\magda\source\repos\NPuzzleGameVPproject\NPuzzleGameVPproject\bin\Debug\NPuzzleGameVPproject.pdb
+C:\Users\magda\source\repos\NPuzzleGameVPproject\NPuzzleGameVPproject\obj\Debug\NPuzzleGameVPproject.csprojAssemblyReference.cache
+C:\Users\magda\source\repos\NPuzzleGameVPproject\NPuzzleGameVPproject\obj\Debug\NPuzzleGameVPproject.Form1.resources
+C:\Users\magda\source\repos\NPuzzleGameVPproject\NPuzzleGameVPproject\obj\Debug\NPuzzleGameVPproject.Form2.resources
+C:\Users\magda\source\repos\NPuzzleGameVPproject\NPuzzleGameVPproject\obj\Debug\NPuzzleGameVPproject.Form3.resources
+C:\Users\magda\source\repos\NPuzzleGameVPproject\NPuzzleGameVPproject\obj\Debug\NPuzzleGameVPproject.Form4.resources
+C:\Users\magda\source\repos\NPuzzleGameVPproject\NPuzzleGameVPproject\obj\Debug\NPuzzleGameVPproject.Properties.Resources.resources
+C:\Users\magda\source\repos\NPuzzleGameVPproject\NPuzzleGameVPproject\obj\Debug\NPuzzleGameVPproject.csproj.GenerateResource.cache
+C:\Users\magda\source\repos\NPuzzleGameVPproject\NPuzzleGameVPproject\obj\Debug\NPuzzleGameVPproject.csproj.CoreCompileInputs.cache
+C:\Users\magda\source\repos\NPuzzleGameVPproject\NPuzzleGameVPproject\obj\Debug\NPuzzleGameVPproject.exe
+C:\Users\magda\source\repos\NPuzzleGameVPproject\NPuzzleGameVPproject\obj\Debug\NPuzzleGameVPproject.pdb
